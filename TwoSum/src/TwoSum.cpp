@@ -18,6 +18,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
 				{
 					res.push_back(index+1);
 					res.push_back(iindex+1);
+					break;
 				}
 			}
 		}
