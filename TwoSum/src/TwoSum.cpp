@@ -1,6 +1,6 @@
-#include <iostream>     // std::cout  
-#include <algorithm>    // std::sort  
-#include <vector>       // std::vector  
+#include <iostream> 
+#include <algorithm>
+#include <vector> 
 using namespace std;
 
 vector<int> twoSum(vector<int>& nums, int target) {
